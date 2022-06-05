@@ -6,19 +6,19 @@ Minimal but (just about) functional setup.
  - Terminal: alacritty
  - Shell: zsh
  - Rice:
-  - polybar
-  - rofi
+   - polybar
+   - rofi
  - Other:
-  - GTK Theme: Materia-dark
-  - Icon Theme: Papirus-dark
-  - Font: Mononoki nerd font
-  - rofi themes by [adi1090x](https://github.com/adi1090x/rofi)
-  - zsh plugins:
-   - zsh-autosuggestions
-   - zsh-completions
-   - zsh-syntax-highlighting
-  - git plugin from oh my zsh
-  - dst theme from oh my zsh
+   - GTK Theme: Materia-dark
+   - Icon Theme: Papirus-dark
+   - Font: Mononoki nerd font
+   - rofi themes by [adi1090x](https://github.com/adi1090x/rofi)
+   - zsh plugins:
+     - zsh-autosuggestions
+     - zsh-completions
+     - zsh-syntax-highlighting
+   - git plugin from oh my zsh
+   - dst theme from oh my zsh
 
 
 ### Notes
